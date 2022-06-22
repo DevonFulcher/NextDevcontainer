@@ -1,0 +1,11 @@
+{
+    "ignoreUnresolved": ["encoding", "websocket"],
+    "ignoreUnused": ["next", "react", "react-dom"],
+    "ignoreUnimported": [
+      "coverage/lcov-report/block-navigation.js",
+      "coverage/lcov-report/prettify.js",
+      "coverage/lcov-report/sorter.js",
+      "jest.config.js",
+      "next.config.js"
+    ]
+}

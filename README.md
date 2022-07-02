@@ -1,3 +1,7 @@
+# NextDevcontainer
+
+This is a template for a NextJS project inside a Devcontainer
+
 ### Running App
 
 1. Run `npm run dev`

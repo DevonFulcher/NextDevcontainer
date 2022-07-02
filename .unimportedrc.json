@@ -1,5 +1,4 @@
 {
-    "ignoreUnresolved": ["encoding", "websocket"],
     "ignoreUnused": ["next", "react", "react-dom"],
     "ignoreUnimported": [
       "coverage/lcov-report/block-navigation.js",
